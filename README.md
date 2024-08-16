@@ -7,3 +7,9 @@ Link :
   2. Simple and Clean UI: Designed with a minimalist interface to keep the focus on the game, providing a smooth user experience.
   3. Real-Time Feedback: Highlights winning combinations and provides instant feedback on game outcomes, such as win, lose, or draw.
   4. Restart Option: Includes a restart button to quickly reset the game and play again without refreshing the page.
+
+# Technologies Used
+
+  1. HTML
+  2. CSS
+  3. JavaScript
