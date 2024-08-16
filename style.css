@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&display=swap");
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+nav{
+    background: #5d044f;
+    height: 50px;
+    color: white;
+    display: flex;
+    font-size: 25px;
+    font-family: "Audiowide", sans-serif;
+    align-items: center;
+    padding: 0 15px;
+
+}
+nav li{
+    list-style-type: none;
+}
+.game{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.container{
+    display: grid;
+    grid-template-rows: repeat(3, 10vw);
+    grid-template-columns: repeat(3, 10vw);
+    font-family: "Audiowide", sans-serif;
+}
+
+
+.box{
+    border: 2px solid black;
+    font-size: 8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box:hover{
+    background-color: rgb(252, 224, 242);
+}
+
+.gameinfo{
+    padding: 0 35px;
+    font-family: "Audiowide", sans-serif;
+}
+
+.info{
+    font-size: 22px;
+}
+
+.gameinfo h1{
+    line-height: 1.6
+}
+
+.imgbox img{
+    width: 0;
+    transition: width 1s ease-in-out;
+}
+
+.br-0{
+    border-right: 0;
+}
+.bl-0{
+    border-left: 0;
+}
+.bt-0{
+    border-top: 0;
+}
+.bb-0{
+    border-bottom: 0;
+}
+
+#reset{
+    padding: 3px 8px;
+    margin: 13px;
+    background-color: #f9d2f4;
+    font-size: 20px;
+}
