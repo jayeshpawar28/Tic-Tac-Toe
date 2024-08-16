@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
-This project is a classic Tic-Tac-Toe game developed using JavaScript. The game provides an interactive and enjoyable way to play Tic-Tac-Toe directly in the browser, with a clean and intuitive user interface.
-Link : 
+This project is a classic Tic-Tac-Toe game developed using JavaScript. The game provides an interactive and enjoyable way to play Tic-Tac-Toe directly in the browser, with a clean and intuitive user interface.</br>
+Link : https://jayeshpawar28.github.io/Tic-Tac-Toe/
 
 # Key Features
   1. <b>Interactive Gameplay:</b> Allows two players to compete in a traditional Tic-Tac-Toe match with responsive gameplay.
